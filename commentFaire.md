@@ -20,3 +20,9 @@ https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/94de0646-0122
 
 
 ## [création de vidéo avec Pika](https://pika.art/my-library)
+
+
+
+https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/523d2712-6eae-41f8-aedd-22e8b5570adf
+
+
