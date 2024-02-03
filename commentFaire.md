@@ -1,4 +1,5 @@
 ## Transformer des images
+[lien formation grand papa](https://github.com/jpbrasile/formationIA2.0)
 
 [voici le lien pour ça](https://huggingface.co/spaces/InstantX/InstantID)
 
