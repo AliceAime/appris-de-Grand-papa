@@ -25,4 +25,4 @@ https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/94de0646-0122
 
 https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/523d2712-6eae-41f8-aedd-22e8b5570adf
 
-
+[pour rendre la vidéo de meilleure qualité:](https://colab.research.google.com/drive/1gWEwcA9y57EsxwOjmLNmNMXPsafw0kGo#scrollTo=fnZqcETQ_qvS)
