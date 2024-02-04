@@ -2,7 +2,6 @@
 ## Transformer des images
 [lien formation grand papa](https://github.com/jpbrasile/formationIA2.0)
 
-[voici le lien pour ça](https://huggingface.co/spaces/InstantX/InstantID)
 
 ### réduire:
 - Pour réduire utiliser:
@@ -13,6 +12,7 @@ ou:
  ```
   <img src="url_de_votre_image.jpg" heigth="500">
   ```
+[voici le lien pour ça](https://huggingface.co/spaces/InstantX/InstantID)
 
 <img src="https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/dcfdd315-e966-40cf-941d-433d968eec55" width="200">
 
