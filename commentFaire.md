@@ -29,3 +29,5 @@ https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/523d2712-6eae
 
 
 ## [pour rendre une image moins floue](https://www.krea.ai/apps/image/enhancer)
+
+![Capture d'écran 2024-02-04 121900](https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/942eb46c-70ea-424c-b97d-ae572b3c8288)
