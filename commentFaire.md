@@ -23,14 +23,17 @@ ou:
 
 ### [pour rendre une image moins floue](https://www.krea.ai/apps/image/enhancer)
 
-![Capture d'écran 2024-02-04 121900](https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/942eb46c-70ea-424c-b97d-ae572b3c8288)
-
+<img src="https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/942eb46c-70ea-424c-b97d-ae572b3c8288" width="350">
 
 
 ### Pour que l'image apparaisse en cliquant 
+```
 [image en cliquant](https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/dcfdd315-e966-40cf-941d-433d968eec55)
 
- ![image (5)](https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/96ede762-6010-431d-b773-d96c75462fb6)
+```
+[image en cliquant](https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/dcfdd315-e966-40cf-941d-433d968eec55)
+
+ <img src="https://github.com/AliceAime/appris-de-Grand-papa/assets/157052534/96ede762-6010-431d-b773-d96c75462fb6" width="200">
 
 
 
