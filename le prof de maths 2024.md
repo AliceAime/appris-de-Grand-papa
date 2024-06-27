@@ -1,1 +1,1 @@
-**créer unn avatar**
+**créer un avatar**
