@@ -26,4 +26,5 @@ Lui fournir :
 
 
 ## [Faire du text 2 image](https://blackforestlabs.ai/#get-flux)
+[exemple](https://raw.githubusercontent.com/AliceAime/images/refs/heads/main/dX-L-YOP5QOjhsLjvF6DZ_55339e3fbd794dbeaeb97179ded3681d.jpg)
 
