@@ -23,3 +23,7 @@ Lui fournir :
     }
   }
 }
+
+
+## [Faire du text 2 image](https://blackforestlabs.ai/#get-flux)
+
