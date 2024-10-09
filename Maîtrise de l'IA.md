@@ -1,4 +1,6 @@
 ## Pour transformer un LLM e nrépétiteur de leçon
+Il suffit de mettre sa leçon en couper/coller pour l'apprendre au fil du chat !  ou bien une photo s'il sait la digérer
+
 Lui fournir :
 
 {
