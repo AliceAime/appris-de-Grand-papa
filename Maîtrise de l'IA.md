@@ -32,3 +32,7 @@ Lui fournir :
 ## Pour ecrire une chanson
 
 aller sur [chatgpt](https://openai.com/index/chatgpt/) et generer une chanson [exemple](https://chatgpt.com/c/67151715-c140-8006-9b39-c4c59323a19c) Se rendre sur le site de creation de chanson [tad.ai](https://tad.ai/ai-music-generator) trouver un titre et copier la chanson generé par chatgpt un peu plus tot on peut même choirir le type de chanson et le style.
+
+## pour créer un dessin animé
+###  prompt
+"Can you give me a story. I want to create AI animated story about “your story”. Please give me a script with narrations and prompt to generate images of related scenes. The prompts should be well detailed and simple. Also add style “your style” at the end of each prompt."
