@@ -35,4 +35,6 @@ aller sur [chatgpt](https://openai.com/index/chatgpt/) et generer une chanson [e
 
 ## pour créer un dessin animé
 ###  prompt
-"Can you give me a story. I want to create AI animated story about “your story”. Please give me a script with narrations and prompt to generate images of related scenes. The prompts should be well detailed and simple. Also add style “your style” at the end of each prompt."
+"Can you give me a story. I want to create AI animated story about “your story”. Please give me a script with narrations and prompt to generate images of related scenes. The prompts should be well detailed and simple. Also add style “your style” at the end of each prompt." 
+###exemple
+
