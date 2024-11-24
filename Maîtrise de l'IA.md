@@ -44,4 +44,6 @@ Un chat gris et blanc, pelucheux, est accroupi sur le sol, sa queue fouettant d'
 
 Éviter faible éclairage, arrière-plans encombrés, ou toute distraction qui pourrait détourner l’attention du chat. Le chat ne doit pas apparaître effrayé, hésitant, ou instable. Éviter de montrer des mouvements brusques, des bruits forts, ou des objets en arrière-plan qui ne font pas partie d'un salon confortable typique. Le chat doit être bien soigné, et la vidéo ne doit pas inclure d'autres animaux ou humains. Pas de caméra tremblante, de transitions abruptes, ou de qualité vidéo granuleuse.
 
+### resultat final
+
 
