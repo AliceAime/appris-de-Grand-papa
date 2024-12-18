@@ -55,4 +55,4 @@ on entre ensuite la video.
 
 ### créé son clone en vidéo
 
-pour créé ton clone tu doit d abbord te rendre sur le site [HeyGen.com](https://app.heygen.com/home) apres tu te rend sur "Avatar vidéo" tu devras ensuite completer des infos sur ton avatar par exemple son nom ou encore son genre. tu selectionne ensuite une voix et tu rentre un texte. Pour finir tu clique sur generer la vidéo.
+pour créé ton clone tu doit d abbord te rendre sur le site [HeyGen.com](https://app.heygen.com/home) apres tu te rend sur "Avatar vidéo" apres avoir selectioner une photo de toi prise avant tu devras completer des infos sur ton avatar par exemple son nom ou encore son genre. tu selectionne ensuite une voix et tu rentre le texte que tu veut faire dire a ton clone. Pour finir tu clique sur generer la vidéo. ( d ailleurs tu n'est pas obligé de faire ton clone, tu peut aussi mettre d autre photos qui parleros ensuite)
