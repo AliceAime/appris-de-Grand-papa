@@ -50,4 +50,9 @@ Un chat gris et blanc, pelucheux, est accroupi sur le sol, sa queue fouettant d'
 
 ### lire une video a l'envers
  pour cela il faut se rendre sur [clideo](https://clideo.com/editor/236741617/export-result)
+puis on clic sur "touts les outils" puis on selectionne rambobiner une video. 
+on entre ensuite la video. 
 
+### créé son clone en vidéo
+
+pour créé ton clone tu doit d abbord te rendre sur le site [HeyGen.com](https://app.heygen.com/home) apres tu te rend sur "Avatar vidéo" tu devras ensuite completer des infos sur ton avatar par exemple son nom ou encore son genre. tu selectionne ensuite une voix et tu rentre un texte. Pour finir tu clique sur generer la vidéo.
